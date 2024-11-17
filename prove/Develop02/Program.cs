@@ -2,6 +2,9 @@ using System;
 using System.Runtime.CompilerServices;
 using System.IO;
 
+/* I added a "Mood" attribute to my Entry class that allows the user to track their mood for the day
+in each entry. */
+
 class Program
 {
     static void Main()
